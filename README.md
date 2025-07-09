@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Niranjan+Desai+%F0%9F%91%8B;Building+futuristic+web+experiences+with+AI+%26+Cloud;Web+Dev+%7C+Generative+AI+%7C+Cloud+Explorer+%7C+Final+Year+CSE" alt="Typing animation" />
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff7ff&height=100&section=header" />
 </p>
@@ -59,7 +60,7 @@ _Let's connect and build something amazing!_
   <a href="mailto:nddesai698@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="niranjan-dev-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   <a href="https://github.com/niranjan-desai" target="_blank">
