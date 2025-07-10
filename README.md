@@ -16,7 +16,7 @@
 
 👋 _Hi, I'm **Niranjan Desai** — a **final-year CSE undergrad** with a strong foundation in core computer science principles._
 
-🌐 _I’m passionate about **Web Development**, curious about **CyberSecurity**, and actively exploring **Cloud Technologies**._
+🌐 _I’m passionate about **Web Development**, curious about **DevOps**, and actively exploring **Cloud Technologies**._
 
 🤝 _I excel in environments that value **collaboration**, **continuous learning**, and **innovation**. I’m always eager to **learn**, **contribute** and **grow**._
 
