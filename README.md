@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Niranjan+Desai+%F0%9F%91%8B;Building+futuristic+web+experiences+with+AI+%26+Cloud;Web+Dev+%7C+Generative+AI+%7C+Cloud+Explorer+%7C+Final+Year+CSE" alt="Typing animation" />
 </p>
@@ -5,6 +7,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff7ff&height=100&section=header" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=niranjan-desai&label=Profile%20views&color=0ff7ff&style=flat" alt="niranjan-desai" />
 </p>
 
 
